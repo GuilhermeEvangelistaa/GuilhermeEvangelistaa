@@ -44,7 +44,3 @@
 <p align="center">
   ✨ Obrigado por visitar meu perfil! Estou sempre aberto a novas conexões e oportunidades.
 </p>
-
-<p align="center">
-  ✨ Obrigado por visitar meu perfil! Estou sempre aberto a novas conexões e oportunidades.
-</p>
