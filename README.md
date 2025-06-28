@@ -8,22 +8,32 @@
 
 ---
 
+
 ### 🚀 Minhas Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeEvangelistaa&show_icons=true&theme=tokyonight" />
 
----
 
+---
 ### 🛠️ Tecnologias & Ferramentas
 
+**💻 Linguagens**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
+**📚 Frameworks & Bibliotecas**  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring)
+
+**🔧 Ferramentas**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ---
 
 ### 🌐 Onde me encontrar
@@ -32,6 +42,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeevangelistaa)
 
 ---
+
+<p align="center">
+  ✨ Obrigado por visitar meu perfil! Estou sempre aberto a novas conexões e oportunidades.
+</p>
 
 <p align="center">
   ✨ Obrigado por visitar meu perfil! Estou sempre aberto a novas conexões e oportunidades.
