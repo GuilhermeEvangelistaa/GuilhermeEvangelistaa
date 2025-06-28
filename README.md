@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/GuilhermeEvangelistaa">
-    <img width="80%" alt="Bem-vindo ao perfil de Guilherme Evangelista!" src="./assets/gh-readme-header.png" />
-  </a>
-</p>
-
 <h2 align="center">👋 Olá, eu sou o Guilherme</h2>
 
 <p align="center">
